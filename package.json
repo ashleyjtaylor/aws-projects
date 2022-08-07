@@ -1,0 +1,8 @@
+{
+  "name": "aws-projects",
+  "version": "1.0.0",
+  "description": "Aws cdk ideas and projects",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
